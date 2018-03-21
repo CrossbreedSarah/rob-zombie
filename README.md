@@ -1,2 +1,0 @@
-# rob-zombie
-tribute page
